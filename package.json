@@ -1,0 +1,13 @@
+{
+  "name": "week5-array-object-drills",
+  "version": "1.0.0",
+  "description": "Week 5 JavaScript array and object manipulation drills",
+  "type": "module",
+  "scripts": {
+    "test": "node drills.js"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "tailwindcss": "^4.3.3"
+  }
+}
